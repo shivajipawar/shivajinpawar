@@ -12,9 +12,9 @@
 ### 🔧 Tech Stack
 
 - **Languages:** Swift, Objective-C, JavaScript (PhoneGap)
-- **Frameworks:** SwiftUI, Combine, UIKit, CoreData
+- **Frameworks:** SwiftUI, Combine, UIKit, CoreData, XCTest 
 - **Tools:** Xcode, Git, Jenkins, Firebase, Crashlytics, REST APIs
-- **Practices:** Agile, TDD, MVVM, CI/CD
+- **Practices:** Agile, TDD, VIPER, MVVM, CI/CD, Unit Test, UI Test, Snapshot Testing. 
 
 ---
 
