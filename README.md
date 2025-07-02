@@ -20,8 +20,6 @@
 
 ## 🚀 iOS Architecture Projects
 
----
-
 ### 🧱 [VIPER iOS Architecture Template](https://github.com/shivajipawar/VIPER-iOS-Architecture)
 A reusable, production-grade VIPER architecture template with built-in module scaffolding and separation of concerns. Ideal for kickstarting scalable UIKit projects.
 
@@ -32,8 +30,6 @@ A reusable, production-grade VIPER architecture template with built-in module sc
 
 📂 Technologies: `UIKit`, `VIPER`, `Swift`, `Xcode`  
 📄 [View README →](https://github.com/shivajipawar/VIPER-iOS-Architecture/blob#readme)
-
----
 
 ### 🎬 VideoFlix (MVVM + SwiftUI)
 A modular video streaming app using SwiftUI and MVVM.
