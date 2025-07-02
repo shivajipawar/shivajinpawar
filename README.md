@@ -54,11 +54,10 @@ An enterprise-style video streaming app using VIPER architecture and UIKit.
 - ✅ Clean Code Structure
 - ✅ Highly modular, testable, and SOLID-compliant
 
-📂 Technologies: `UIKit`, `VIPER`, `AVPlayerViewController`
+📂 Technologies: `UIKit`, `VIPER`, `AVPlayerViewController` 
 📄 [View README →](https://github.com/shivajipawar/VideoFlix#readme)
 
 ---
-
 
 ### 🤝 Connect with Me
 
