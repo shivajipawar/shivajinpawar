@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shivaji Pawar
  
-**Senior iOS Developer | 12+ years experience | Team Lead | Swift & SwiftUI Expert | Pune, India**
+**Senior iOS Developer | Swift & SwiftUI Expert | Pune, India**
 
 🎯 12+ years of experience building high-performance, scalable mobile apps  
 📱 Expert in Swift, SwiftUI, Objective-C, Firebase, CoreData  
