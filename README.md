@@ -18,7 +18,9 @@
 
 ---
 
-## 🚀 iOS Architecture Projects
+## 📱 Practice Projects
+
+ ## 🚀 iOS Architecture Projects
 
 ### 🧱 [VIPER iOS Architecture Template](https://github.com/shivajipawar/VIPER-iOS-Architecture)
 A reusable, production-grade VIPER architecture template with built-in module scaffolding and separation of concerns. Ideal for kickstarting scalable UIKit projects.
