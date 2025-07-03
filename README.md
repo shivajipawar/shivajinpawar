@@ -4,7 +4,6 @@
 
 🎯 12+ years of experience building high-performance, scalable mobile apps  
 📱 Expert in Swift, SwiftUI, Objective-C, Firebase, CoreData  
-🚀 Led delivery of features in secure banking and media apps used by thousands  
 🧠 Passionate about scalable architecture, testable code, and building polished apps with Swift.
 
 ---
